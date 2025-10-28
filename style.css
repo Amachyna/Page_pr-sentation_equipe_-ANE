@@ -1,0 +1,38 @@
+a { 
+  justify-content: center;        
+  align-items: center;
+  margin-right: 3em;      
+  color: crimson;       
+}
+
+.indexlien {           
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.indextitre {
+    text-align: center;
+}
+
+.indeximg {
+  text-align: center;
+  display: block;    
+  margin: 0 auto;      
+}
+
+.achyltitre {
+  text-align: center;
+}
+
+.achylpetittitre {
+  text-align: center;
+}
+
+.achyltext {
+  text-align: center;
+}
+
+.achylimg{
+  text-align: center;
+}
